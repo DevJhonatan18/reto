@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:sonar-jacoco-listeners:5.8.0.15699">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/sonar-jacoco-listeners/5.8.0.15699/sonar-jacoco-listeners-5.8.0.15699.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/sonar-jacoco-listeners/5.8.0.15699/sonar-jacoco-listeners-5.8.0.15699-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/sonar-jacoco-listeners/5.8.0.15699/sonar-jacoco-listeners-5.8.0.15699-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
